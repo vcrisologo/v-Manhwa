@@ -1,8 +1,6 @@
 body {
-	width: 115%;
-	height: auto;
 	background-image: url("Images/background01.png");
-	background-repeat: no repeat;
+	background-size: 115%;
 	margin: 0px;
 }
 
